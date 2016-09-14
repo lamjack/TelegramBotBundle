@@ -1,0 +1,13 @@
+{
+    "name": "jack/telegram-bot-bundle",
+    "type": "symfony-bundle",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "jack",
+            "email": "jack@wizmacau.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
